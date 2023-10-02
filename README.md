@@ -1,51 +1,18 @@
-# Hi there, I'm Pradip Khamkar 👋
-[![Website](https://img.shields.io/badge/Portfolio-Visit%20Now-blue)](https://khamkarpradip.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue)](https://www.linkedin.com/in/pradipkhamkar/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-blue)](https://twitter.com/pradipkhamkar_)
+<h1 align="center">Hi 👋, I'm Pradip</h1>
+<h3 align="center">a passionate MERN stack developer who loves building robust and scalable web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.</h3>
 
-🚀 MERN Stack Developer | 💻 Open Source Contributor | 🌱 Lifelong Learner
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradipkhamkar&label=Profile%20views&color=0e75b6&style=flat" alt="pradipkhamkar" /> </p>
 
-Welcome to my GitHub! I'm Pradip, a passionate MERN stack developer who loves building robust and scalable web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradipkhamkar" alt="pradipkhamkar" /></a> </p>
 
-## 🛠️ Technologies & Tools
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/pradip-khamkar-9a5b88259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pradip-khamkar-9a5b88259" height="30" width="40" /></a>
+</p>
 
-- **Frontend:** 
-  ![React.js](https://img.icons8.com/color/48/000000/react-native.png) React.js
-- **Backend:** 
-  ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
-  ![Express.js](https://img.icons8.com/ios-filled/50/000000/express.png) Express.js
-- **Database:** 
-  ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
-- **Language:** 
-  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- **Version Control:** 
-  ![Git](https://img.icons8.com/color/48/000000/git.png) Git
-- **Other Tools:** 
-  ![Redux](https://img.icons8.com/color/48/000000/redux.png) Redux
-  ![GraphQL](https://img.icons8.com/color/48/000000/graphql.png) GraphQL
-  ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker
-- **Testing:** 
-  ![Jest](https://img.icons8.com/color/48/000000/jest.png) Jest
-  ![Mocha](https://img.icons8.com/color/48/000000/mocha.png) Mocha
-  ![Chai](https://img.icons8.com/ios-filled/50/000000/chai.png) Chai
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 🔭 Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradipkhamkar&show_icons=true&locale=en&layout=compact" alt="pradipkhamkar" /></p>
 
-- [Portfolio Website](https://khamkarpradip.netlify.app/): My personal portfolio showcasing my skills and projects.
-- [Project Name]: [Project Description and Link]
-
-## 🌱 What I'm Learning
-
-I'm currently focusing on enhancing my skills in:
-
-- Advanced React patterns and performance optimizations.
-- Building scalable backend architectures.
-- DevOps practices for seamless deployment and monitoring.
-
-## 📈 GitHub Stats
-
-![Pradip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical)
-
-## 🤝 Let's Connect
-
-I'm always open to interesting collaborations and new opportunities. Feel free to reach out to me via [email](mailto:youremail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/pradipkhamkar/). Let's build something amazing together! 😊
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradipkhamkar&show_icons=true&locale=en" alt="pradipkhamkar" /></p>
