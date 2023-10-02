@@ -54,5 +54,5 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PradipKhamkar&show_icons=true&theme=dark&locale=en&layout=compact" alt="pradip khamkar" /></td>
 </div>
-
+</br>
 <p> ❤ Thank you for visiting my GitHub profile!</p>
