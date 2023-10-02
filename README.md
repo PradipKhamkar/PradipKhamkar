@@ -9,13 +9,25 @@ Welcome to my GitHub! I'm Pradip, a passionate MERN stack developer who loves bu
 
 ## 🛠️ Technologies & Tools
 
-- **Frontend:** HTML, CSS, JavaScript (React.js)
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Version Control:** Git, GitHub
-- **Other Tools:** Redux, GraphQL, REST API, Docker
-- **Hosting:** Netlify, Heroku
-- **Testing:** Jest, Mocha, Chai
+- **Frontend:** 
+  ![React.js](https://img.icons8.com/color/48/000000/react-native.png) React.js
+- **Backend:** 
+  ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+  ![Express.js](https://img.icons8.com/ios-filled/50/000000/express.png) Express.js
+- **Database:** 
+  ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
+- **Language:** 
+  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- **Version Control:** 
+  ![Git](https://img.icons8.com/color/48/000000/git.png) Git
+- **Other Tools:** 
+  ![Redux](https://img.icons8.com/color/48/000000/redux.png) Redux
+  ![GraphQL](https://img.icons8.com/color/48/000000/graphql.png) GraphQL
+  ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker
+- **Testing:** 
+  ![Jest](https://img.icons8.com/color/48/000000/jest.png) Jest
+  ![Mocha](https://img.icons8.com/color/48/000000/mocha.png) Mocha
+  ![Chai](https://img.icons8.com/ios-filled/50/000000/chai.png) Chai
 
 ## 🔭 Projects
 
