@@ -28,12 +28,12 @@
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </br>
-  
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></br>
   <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-</br>
-<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+
+
 
 </div>
 
@@ -49,11 +49,10 @@
 <div align="left">
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</div><br/>
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=PradipKhamkar&show_icons=true&theme=dark&locale=en&layout=compact" alt="pradip khamkar" /></td>
-  </tr>
-</table>
+</div>
+<br/>
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PradipKhamkar&show_icons=true&theme=dark&locale=en&layout=compact" alt="pradip khamkar" /></td>
+</div>
 
-<p>Thank you for visiting my GitHub profile!</p>
+<p> ❤ Thank you for visiting my GitHub profile!</p>
