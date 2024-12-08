@@ -56,6 +56,6 @@
 </div>
 </br>
 
-![Visitor Count](https://profile-counter.glitch.me/KhamkarPradip/count.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PradipKhamkar&label=Profile%20views&color=0e75b6&style=flat" alt="pradipkhamkar" /> </p>
 
 <p> ❤ Thank you for visiting my GitHub profile!</p>
