@@ -55,5 +55,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PradipKhamkar&show_icons=true&theme=dark&locale=en&layout=compact" alt="pradip khamkar" /></td>
 </div>
 </br>
-![](https://komarev.com/ghpvc/?username=PradipKhamkar)
+
+![Visitor Count](https://profile-counter.glitch.me/KhamkarPradip/count.svg)
+
 <p> ❤ Thank you for visiting my GitHub profile!</p>
